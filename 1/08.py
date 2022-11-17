@@ -1,0 +1,2 @@
+a="Nitesh"
+print(a)
